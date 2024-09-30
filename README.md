@@ -1,2 +1,2 @@
 # Health-Insurance-Premium-Prediction
-Developed an app to predict health insurance premiums using XGBoost for general predictions and Linear Regression for the 18-25 age group. Features real-time predictions based on age, income, and medical history. Implemented data preprocessing, model evaluation, and hyperparameter tuning, and built an intuitive front-end with Streamlit
+Developed a predictive app for health insurance premiums using Linear Regression, Ridge Regression, and XGBoost. Features real-time predictions based on factors like age, income, medical history etc. Implemented data preprocessing, model evaluation, and hyperparameter tuning, and built an intuitive front-end with Streamlit.
